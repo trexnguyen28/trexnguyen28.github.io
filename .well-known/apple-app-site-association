@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details":  [
+      {
+        "appIDs": ["4MJX96WBNL.com.mylong.opus", "4MJX96WBNL.com.mylong.opus.sit", "4MJX96WBNL.com.mylong.opus.dev"],
+        "components": [
+          {
+            "/": "/opus/*",
+            "comment": "Matches any URL whose path starts with /opus/"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [ "4MJX96WBNL.com.mylong.opus", "4MJX96WBNL.com.mylong.opus.sit", "4MJX96WBNL.com.mylong.opus.dev"]
+  }
+}
+
