@@ -2,16 +2,24 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.mylong.opus",
+    "package_name": "com.hosthealthcare.app",
     "sha256_cert_fingerprints":
-    ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C", "61:39:13:F1:D4:F6:4C:EB:30:F4:F4:FC:F1:82:43:4B:A1:FC:CA:1E:7F:DC:25:7B:44:E9:BA:45:80:F8:6E:3D"]
+    ["40:61:50:AC:F8:EA:98:D1:35:12:0F:5D:60:7A:2E:12:80:60:8D:D0:FD:64:51:5E:1E:C3:5F:EF:2D:6E:9A:E2"]
   }
-},{
+}, {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.mylong.opus.sit",
+    "package_name": "com.hosthealthcare.app.sit",
     "sha256_cert_fingerprints":
-    ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C", "61:39:13:F1:D4:F6:4C:EB:30:F4:F4:FC:F1:82:43:4B:A1:FC:CA:1E:7F:DC:25:7B:44:E9:BA:45:80:F8:6E:3D"]
+    ["40:61:50:AC:F8:EA:98:D1:35:12:0F:5D:60:7A:2E:12:80:60:8D:D0:FD:64:51:5E:1E:C3:5F:EF:2D:6E:9A:E2"]
+  }
+}, {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hosthealthcare.app.qa",
+    "sha256_cert_fingerprints":
+    ["40:61:50:AC:F8:EA:98:D1:35:12:0F:5D:60:7A:2E:12:80:60:8D:D0:FD:64:51:5E:1E:C3:5F:EF:2D:6E:9A:E2"]
   }
 }]
